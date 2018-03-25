@@ -1,0 +1,4 @@
+﻿  018.cpp
+e:\git\018\018\018.cpp(13): warning C4018: “<”: 有符号/无符号不匹配
+e:\git\018\018\018.cpp(17): warning C4018: “<”: 有符号/无符号不匹配
+  018.vcxproj -> E:\git\018\Debug\018.exe
