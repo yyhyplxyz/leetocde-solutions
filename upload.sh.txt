@@ -1,4 +1,4 @@
 git add -A
 NOW=$(date +"%Y%m%d%H%M%S")
-git commit -m "on"+NOW
+git commit -m "on"+$NOW
 git push origin master
