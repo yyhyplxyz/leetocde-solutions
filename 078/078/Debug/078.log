@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  078.cpp
+e:\git\078\078\078.cpp(11): warning C4018: “<”: 有符号/无符号不匹配
+  078.vcxproj -> E:\git\078\Debug\078.exe
